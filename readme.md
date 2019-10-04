@@ -3,6 +3,20 @@
 ## Tutorial from
 https://desertbot.io/blog/how-to-cross-compile-for-raspberry-pi
 
+## Needed tools
+
+PI Tools
+
+https://github.com/raspberrypi/tools
+
+## Container Details
+
+Docker cross compile container details:
+
+https://bitbucket.org/mitchallen/pi-cross-compile/src/master/
+
+### Steps using the containers:
+
 `docker pull mitchallen/pi-cross-compile`
 
 ```bash
